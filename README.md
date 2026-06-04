@@ -1,100 +1,107 @@
-# Hi, I'm Medjoubi Mohamed Ramy! 👋
+<div align="center">
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Medjoubi%20Mohamed%20Ramy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-I am a passionate and driven professional in the fields of computer science and business intelligence. With a solid academic foundation and extensive technical skills, I am dedicated to delivering innovative solutions. Fluent in English, French, and Arabic, I bring a diverse perspective to my work.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Flutter+%26+Mobile+Developer;Building+scalable+digital+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://kMohamed Ramyev.com/ghpvc/?username=ramymedjoubi&color=blueviolet)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ramymedjoubi.netlify.app-6C63FF?style=for-the-badge&logoColor=white)](https://ramymedjoubi.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Medjoubi-Mohamed-Ramy-10651a22a/)
+[![Email](https://img.shields.io/badge/Email-embark24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:embark24@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ramymedjoubi&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ramymedjoubi)
 
+</div>
 
-## 🛠️ Technical Skills
+---
 
-### Languages & Frameworks
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="48" height="48" alt="Python" /><br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="48" height="48" alt="HTML" /><br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="48" height="48" alt="SQL" /><br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Dart" /><br>Dart
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="48" height="48" alt="TensorFlow" /><br>React.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" width="48" height="48" alt="PyTorch" /><br>Express.Js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png" width="48" height="48" alt="Keras" /><br>Strapi
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="48" height="48" alt="Flutter" /><br>Dolibarr
-    </td>
-    <td align="center" width="96">
-      <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI" /><br>FastAPI
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="48" height="48" alt="Flask" /><br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/nltk/nltk.png" width="48" height="48" alt="NLTK" /><br>NLTK
-    </td>
-    <td align="center" width="96">
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48" alt="Streamlit" /><br>MongoDB
-    </td>
-  </tr>
-</table>
+```typescript
+const ramy = {
+  name:     "Medjoubi Mohamed Ramy",
+  location: "Bordj Bou Arreridj, Algeria 🇩🇿",
+  role:     "Full Stack Developer & DevOps Engineer",
+  focus:    ["Scalable Web Apps", "Mobile Development", "CI/CD Automation"],
+  languages: ["Arabic 🇩🇿", "French 🇫🇷", "English 🇬🇧"],
+  currentlyWorking: ["cristor.dz", "e-faciliti.dz", "Condor Proxima App"],
+  askMeAbout: ["React", "Next.js", "Flutter", "DevOps", "REST APIs"],
+};
+```
 
-## 🚀 Projects
+---
 
-### [Cristor](https://cristor.dz)
-- website for cristor mark
+## 🛠️ Tech Stack
 
+### 🌐 Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### [Proxima services installer](https://play.google.com/store/apps/details?id=com.condor.proxima_services&pcampaignid=web_share)
-- Proxima services condor service app
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### [E-faciliti](https://e-faciliti.dz/)
-- eFaciliti is the leading provider of digital services for public entities in Algeria. I designed and developed a comprehensive system to manage customer requests and optimize service delivery.
+### 🗄️ Databases & ERP
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Dolibarr](https://img.shields.io/badge/Dolibarr_ERP-orange?style=for-the-badge)
 
+---
 
+## 🚀 Featured Projects
+
+| Project | Role | Stack | Link |
+|---------|------|-------|------|
+| **Cristor** | Full Stack Developer | Next.js · Strapi · Tailwind · AI | [🔗 cristor.dz](https://cristor.dz) |
+| **E-Faciliti** | Full Stack Developer | React · Python · MySQL · REST API | [🔗 e-faciliti.dz](https://e-faciliti.dz) |
+| **Proxima Services** | Mobile Developer | Flutter · Dart · Firebase · REST API | [🔗 Play Store](https://play.google.com/store/apps/details?id=com.condor.proxima_services) |
+| **Condor Immo** | Full Stack Developer | Dolibarr ERP · PHP · MySQL | 🔒 Internal |
+
+---
 
 ## 🎓 Education
 
-- **Master's in Business Intelligence** (Ingénieur Informatique Décisionnelle), University of Bordj Bou Arreridj, 2018-2022
-- **Bachelor's in Computer Science** (Ingénieur de Systèmes d'Information et Logiciel), University of Bordj Bou Arreridj, 2018-2022
+🎓 **Master in Computer Sciences** — Networks & Multimedia
+University Mohamed El Bachir El Ibrahimi, BBA · `2020 – 2025`
 
-## 📫 Connect with Me
+📖 **Bachelor's in Technical English**
+University of Continuing Education, BBA · `2023 – 2026`
 
-- 📧 Email: embark24@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/Medjoubi-Mohamed Ramy-10651a22a/)
-- [Instagram](https://www.instagram.com/Mohamed Ramy_Medjoubi/)
-- [Facebook](https://www.facebook.com/Mohamed Ramy.Medjoubi.710)
-
-
+---
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramymedjoubi&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramymedjoubi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramymedjoubi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
+</div>
 
+<div align="center">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramymedjoubi&theme=tokyonight&hide_border=true&background=0d1117)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ramymedjoubi&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramymedjoubi&show_icons=true&theme=radical)
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
