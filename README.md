@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Medjoubi%20Mohamed%20Ramy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Medjoubi%20Mohamed%20Ramy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20and%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;Flutter+%26+Mobile+Developer;Building+scalable+digital+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ramymedjoubi.netlify.app-6C63FF?style=for-the-badge&logoColor=white)](https://ramymedjoubi.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Medjoubi-Mohamed-Ramy-10651a22a/)
-[![Email](https://img.shields.io/badge/Email-embark24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:embark24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-medjoubi-60a39a316?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-ramymedjoubi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramymedjoubi@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ramymedjoubi&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ramymedjoubi)
 
 </div>
@@ -42,7 +42,6 @@ const ramy = {
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -52,8 +51,9 @@ const ramy = {
 ### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B2B34?style=for-the-badge&logo=sonatype&logoColor=white)
 
 ### 🗄️ Databases & ERP
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -82,26 +82,3 @@ University Mohamed El Bachir El Ibrahimi, BBA · `2020 – 2025`
 University of Continuing Education, BBA · `2023 – 2026`
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramymedjoubi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramymedjoubi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramymedjoubi&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
